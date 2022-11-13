@@ -4,7 +4,7 @@
          width="45" /> I'm Esteban Hernández</h1>
 
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building some personal projects.<br>🌱 I’m currently learning more about IoT.<br>🤔 I’m looking collaborate on challenging projects.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I like to wash the dishes but not to cook.
+😄 Pronouns: He/His<br>🔭 I’m currently building some personal projects.<br>🌱 I’m currently learning more about IoT.<br>🤔 I’m looking collaborate on challenging projects.<br>💬 Ask me about Java or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I like to wash the dishes, but not to cook.
 
 
 ## 🌐 Socials:
